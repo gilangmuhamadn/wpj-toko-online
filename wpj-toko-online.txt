@@ -1,0 +1,7 @@
+WPJ toko online
+- membuat website Toko Online berbasis framework CodeIgniter
+- untuk Front End memakai HTML,CSS,Javascript,AJAX
+- untuk Back End memakai PHP, Java, Jason
+- untuk Database memakai MYSQL
+- coba untuk menggunakan MONGODB
+- coba membuat API
